@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/BrittAndrews/lightning/issues"
   },
-  "homepage": "https://github.com/BrittAndrews/lightning#readme"
+  "homepage": "https://github.com/BrittAndrews/lightning#readme",
+  "dependencies": {
+    "@salesforce-ux/design-system": "^2.5.2"
+  }
 }
